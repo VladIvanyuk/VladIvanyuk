@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhlenYxc2t5ZXhyZmVpcTlmMzR0MTYxZnRpcjE5OGswY2lydHdzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SSEUXmfpLgDMnjO0dk/giphy.gif" width="200"/>
-  <h2>Flexin on the STACK</h2>
+  <h2>Flexin' on the STACK</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
