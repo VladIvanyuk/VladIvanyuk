@@ -21,4 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladIvanyuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/r4v3nz/badges/large)](https://www.codewars.com/users/r4v3nz)
+
 ---
