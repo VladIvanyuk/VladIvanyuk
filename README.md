@@ -1,5 +1,5 @@
 <div id="header" align="center" style="background-color: #484f58;">
- <img src="https://ltdfoto.ru/images/2023/11/21/Simple-Software-Developer.png" alt="Simple-Software-Developer" border="0" width="100%">
+<!--  <img src="https://ltdfoto.ru/images/2023/11/21/Simple-Software-Developer.png" alt="Simple-Software-Developer" border="0" width="100%"> -->
   <h2>Flexin' on the STACK</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
